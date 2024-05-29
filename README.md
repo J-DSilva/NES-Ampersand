@@ -3,4 +3,4 @@ The NES & is a drop in replacement for the ribbon cable used in the NES Slotmast
 
 Slotmaster repository: https://github.com/ShawMerlin/NES-Slotmaster
 
-![20240527_214616](https://github.com/J-DSilva/NES-Ampersand/assets/44735235/c47e8569-6bb0-4681-a8a1-48f332c4bc0a)
+![20240527_214616~2](https://github.com/J-DSilva/NES-Ampersand/assets/44735235/3e1ceff1-5532-496d-98b6-0b50075fcddd)
